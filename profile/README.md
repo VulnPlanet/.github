@@ -1,18 +1,34 @@
 ![logo](https://raw.githubusercontent.com/VulnPlanet/.github/main/logo1.svg)
 
-In ***VulnPlanetDB*** you can search for CVE and next to the standard description information get a similar root-cause vulnerable code example with a fix. This could help you understand the code root cause of the vulnerability much faster and perform research for new CVEs with limited descriptions.
+VulnPlanet - AI, BlockChain and Augmented reality research and experiments with focus on developing AppSec solutions.
 
-We are using AI-driven technology for the deepest analysis of Common Vulnerabilities and Exposures (CVE). Our model categorized all known CVEs by category, root case, and all common OWASP Top-10 ratings. Explore it!
+### Projects:
 
-Curious about Secure Coding? Find vulnerable code snippets with fixes in [VulnPlanet open source codebase](https://github.com/yevh/VulnPlanet)
+**[VulnPlanet codebase](https://github.com/yevh/VulnPlanet)** - Vulnerable code snippets with fixes for Web2, Web3, API, iOS, Android and Infrastructure-as-Code (IaC).
 
-***Donations***
+**[VulnPlanetDB](https://vulnplanet.com/pages/vulnplanet.html)** - Search for CVE and get extensive vuln information, similar root-cause vulnerable code example with a fix, AI-Advice, etc.
 
-- USDT TRC20: ```TUwDc2PVag8NsqrTyHNgPvqjNL8fvrbTzV```
-- ETH ERC20: ```0x3a7b09b56dd88d4ae491c5cebb63647836304678```
-- BTC: ```19hwZ4Jxs1jpQi6tTwYvfYJgyNPWyEFHy8```
+**[L3X](https://github.com/VulnPlanet/l3x)** - AI-driven Static Code Analysis (SAST) for Web3. Currently supports checks Rust Solana.
 
-***Contact***
+### Research & Experiments:
 
+**[CVE Rating](https://vulnplanet.com/pages/cve.html)** - Deepest analysis of Common Vulnerabilities and Exposures (CVE).
+
+**[Chatgpt Secure](https://chromewebstore.google.com/detail/chatgpt-secure/hodneljnifpbcnhmlommhmmpoknlioil)** - Prevents sensitive information disclosure and protects from content hijacking attack on ChatGPT.
+
+**[ChatGPT Secure Proxy](https://github.com/yevh/chatgpt-secure)** - simple ChatGPT API requests validator. Removes sensitive information and validates for malicious, rule-breaking, manipulative content or redefining instructions input.
+
+**[Attack on ChatGPT](https://medium.com/system-weakness/new-prompt-injection-attack-on-chatgpt-web-version-ef717492c5c2)** - Prompt injection & Content hijacking attacks
+
+**[Data Anonymizer](https://github.com/yevh/anonymizer)** - Anonymize sensitive data in your datasets.
+
+**[AI-driven Threat Modeling-as-a-Code (TaaC)](https://github.com/yevh/TaaC-AI)** - analyze service descriptions, identify security threats, visualise data flow and suggest remediations based on the STRIDE framework and OWASP guidelines.
+
+### Contact
+
+**Company:**
+- contact@vulnplanet.com
+
+**Core contributors:**
 - yevhsec1@gmail.com
 - ttahabatt@gmail.com
