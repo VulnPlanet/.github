@@ -1,6 +1,6 @@
 ![logo](https://raw.githubusercontent.com/VulnPlanet/.github/main/logo1.svg)
 
-VulnPlanet - AI and blockchain research and experiments with a focus on developing AppSec solutions
+[VulnPlanet](https://vulnplanet.com/) - AI and blockchain research and experiments with a focus on developing AppSec solutions
 
 ### Projects:
 
