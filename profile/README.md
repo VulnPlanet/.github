@@ -14,6 +14,8 @@
 
 **[CVE Rating](https://vulnplanet.com/pages/cve.html)** - Deepest analysis of Common Vulnerabilities and Exposures (CVE).
 
+**[TOP-10 vulnerable external components/software](https://vulnplanet.com/pages/top10.html)** - List is based on 10,000+ scans.
+
 **[Chatgpt Secure](https://chromewebstore.google.com/detail/chatgpt-secure/hodneljnifpbcnhmlommhmmpoknlioil)** - Prevents sensitive information disclosure and protects from content hijacking attack on ChatGPT.
 
 **[ChatGPT Secure Proxy](https://github.com/yevh/chatgpt-secure)** - simple ChatGPT API requests validator. Removes sensitive information and validates for malicious, rule-breaking, manipulative content or redefining instructions input.
