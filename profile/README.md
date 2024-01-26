@@ -1,4 +1,4 @@
-![logo](https://raw.githubusercontent.com/VulnPlanet/.github/main/logo.svg)
+![logo](https://raw.githubusercontent.com/VulnPlanet/.github/main/logo1.svg)
 
 In ***VulnPlanetDB*** you can search for CVE and next to the standard description information get a similar root-cause vulnerable code example with a fix. This could help you understand the code root cause of the vulnerability much faster and perform research for new CVEs with limited descriptions.
 
