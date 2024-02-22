@@ -10,6 +10,8 @@
 
 **[L3X](https://github.com/VulnPlanet/l3x)** - AI-driven Static Code Analysis (SAST) for Web3. Currently supports checks Rust Solana.
 
+**[AI-driven Threat Modeling-as-a-Code (TaaC)](https://github.com/yevh/TaaC-AI)** - analyze service descriptions, identify security threats, visualise data flow and suggest remediations based on the STRIDE framework and OWASP guidelines.
+
 ### Research & Experiments:
 
 **[CVE Rating](https://vulnplanet.com/pages/cve.html)** - Deepest analysis of Common Vulnerabilities and Exposures (CVE).
@@ -23,8 +25,6 @@
 **[Attack on ChatGPT](https://medium.com/system-weakness/new-prompt-injection-attack-on-chatgpt-web-version-ef717492c5c2)** - Prompt injection & Content hijacking attacks
 
 **[Data Anonymizer](https://github.com/yevh/anonymizer)** - Anonymize sensitive data in your datasets.
-
-**[AI-driven Threat Modeling-as-a-Code (TaaC)](https://github.com/yevh/TaaC-AI)** - analyze service descriptions, identify security threats, visualise data flow and suggest remediations based on the STRIDE framework and OWASP guidelines.
 
 ### Contact
 
